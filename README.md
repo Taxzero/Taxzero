@@ -7,7 +7,7 @@
   
 I am studying programming
 </br>
-  <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+  <h3 align="center"><b> 🧰 Tech Stack 🛠</b></h3>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </br>
