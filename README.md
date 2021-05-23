@@ -1,6 +1,6 @@
 <div align=center>
    
-![header](https://capsule-render.vercel.app/api?type=waving&color=Gradient&height=300&section=header&text=Taxzero%20&fontColor=ffffff&fontSize=50&fontAlign=80&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Taxzero%20&fontColor=ffffff&fontSize=50&fontAlign=80&fontAlignY=40)
 
 <h3 align="center"><b>Hello everyone</b></h3>
 
