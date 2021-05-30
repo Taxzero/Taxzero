@@ -16,7 +16,6 @@ I am studying programming
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
 
-출처: https://byul91oh.tistory.com/214 [초보 개발자의 가여운 스또리]
 </br>
 
 
