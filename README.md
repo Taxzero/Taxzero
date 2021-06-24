@@ -8,6 +8,11 @@
   
   
 I was a designer. Currently studying programming.
+   
+   
+<a href="https://taxzero.github.io/" target="_blank"><img src="https://img.shields.io/badge/click here-000000?style=flat-square&logo=link&logoColor=white"/></a>   
+   
+   
 </br>
   <h3 align="center"><b>Studing Stack</b></h3>
 
