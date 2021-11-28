@@ -10,7 +10,7 @@
 I was a designer. Currently studying programming.
    
    
-<a href="https://taxzero.github.io/" target="_blank"><img src="https://img.shields.io/badge/click here-000000?style=flat-square&logo=link&logoColor=white"/></a>   
+<a href="https://tax-zero.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/click here-000000?style=flat-square&logo=link&logoColor=white"/></a>   
    
    
 </br>
