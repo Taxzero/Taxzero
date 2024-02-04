@@ -27,10 +27,11 @@ I was a designer. Currently studying programming.
 <img src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-00599C?style=flat-square&logo=c&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
-<img src ="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+
 
 </br>
 
