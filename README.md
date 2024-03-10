@@ -1,10 +1,6 @@
 <div align=center>
    
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Taxzero%20&fontColor=ffffff&fontSize=50&fontAlign=80&fontAlignY=40)
-
-<h3 align="center"><b>Hello everyone</b></h3>
-
-I used to be a designer and am now a developer.
+ <img src="https://github.com/Taxzero/terminal.gif" width="120">
    
    
 <a href="https://tax-zero.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/click here-000000?style=flat-square&logo=link&logoColor=white"/></a>   
