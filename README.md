@@ -9,7 +9,7 @@
 </br>
   <h3 align="center"><b>Studing Stack</b></h3>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=succes"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=success"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
