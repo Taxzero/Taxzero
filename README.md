@@ -1,6 +1,6 @@
 <div align=center>
    
- <img src="https://github.com/Taxzero/terminal.gif" width="120">
+ <img src="https://github.com/Taxzero/terminal.gif" width="40">
    
    
 <a href="https://tax-zero.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/click here-000000?style=flat-square&logo=link&logoColor=white"/></a>   
