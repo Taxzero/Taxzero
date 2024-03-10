@@ -35,7 +35,8 @@ I used to be a designer and am now a developer.
 
 </br>
 
-
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 </div>
 
 </br>
