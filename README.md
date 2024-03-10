@@ -1,7 +1,7 @@
 <div align=center>
-<img src="terminal.gif" width="300"/>
+
    
-<a href="https://tax-zero.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/click here-000000?style=flat-square&logo=link&logoColor=white"/></a>   
+<a href="https://tax-zero.tistory.com/" target="_blank"><img src="terminal.gif" width="500"/></a>   
    
    
 </br>
