@@ -1,12 +1,13 @@
 <div align=center>
 
    
-<a href="https://tax-zero.tistory.com/" target="_blank"><img src="terminal.gif" width="500"/></a>   
+<a href="https://tax-zero.tistory.com/" target="_blank"><img src="terminal.gif" width="500"/></a> 
+### Visitor count
+<img src="https://profile-counter.glitch.me/Taxzero/count.svg" />
    
    
 </br>
   <h3 align="center"><b>Studing Stack</b></h3>
-
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=success"/></a>
 <img src="https://img.shields.io/badge/R-black?style=flat-square&logo=R&logoColor=success"/></a>
 <img src="https://img.shields.io/badge/html-black?style=flat-square&logo=html5&logoColor=success"/></a>
@@ -26,8 +27,7 @@
 
 </br>
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/Taxzero/count.svg" />
+
 </div>
 
 </br>
