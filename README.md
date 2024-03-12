@@ -2,8 +2,7 @@
 
 
 <div align=center>
-<h3 align="center"><b>Visitor count</b></h3>
-
+<h4 align="center"><b>Hi Guys~</b></h4>
 <img src="https://profile-counter.glitch.me/Taxzero/count.svg" />
 
 <a href="https://tax-zero.tistory.com/" target="_blank"><img src="terminal.gif" width="500"/></a>
@@ -30,6 +29,8 @@
  <img style="height: 110px;" class="img" src="https://github-readme-stats.vercel.app/api?username=Taxzero&custom_title=Taxzero%20github%20stats&hide=prs,issues,contribs&title_color=ffffff&show_icons=true&icon_color=0EFF00&include_all_commits&bg_color=0D1117&border_color=0D1117&text_color=0EFF00&hide_rank=true" />
  <img style="height: 110px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taxzero&title_color=ffffff&text_color=0EFF00&layout=compact&bg_color=0D1117&border_color=0D1117&hide=jupyter%20notebook,R,HTML,SCSS,CSS&custom_title=Used%20Language" />
 </div>
+
+
 
 </div>
 
