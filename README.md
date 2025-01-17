@@ -1,14 +1,9 @@
-
-
-
-
-
 <div align=center>
 
 <table width="12000" bordercolor="#0EFF00" bgcolor="#0EFF00">
   <tr>
     <td align="left">Hi Guys~ this is visit counter</td>
-    <td align="right">Studying Stack</td>
+    <td align="right">Stack</td>
   </tr>
   <tr>
     <td align="left"><img src="https://profile-counter.glitch.me/Taxzero/count.svg" /></td>
